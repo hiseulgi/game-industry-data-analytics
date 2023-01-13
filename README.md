@@ -1,9 +1,9 @@
 # Games Industry Data Analytics
 ## About Project
-### Database Context
+### Datasets Context
 Gaming industry is an interesting field to explore, it would be fun knowing who is the most popular publishers and developers and which games are the most popular.
 
-### Database Content
+### Datasets Content
 This dataset contains several columns including:
 - Name: Name of the game 
 - Sales: Sales of the game in Millions 
