@@ -23,3 +23,6 @@ This dataset contains several columns including:
 ### Tools
 I'm using **Python** on **Jupyter Notebook** in this data analytics. In **data cleansing**, 
 I use the **Pandas** library. And for **data visualization** I use the **Matplotlib** and **Seaborn** libraries.
+
+### Presentation
+You can see my presentation about this project here: [Click Me!](https://docs.google.com/presentation/d/1YuFc3inkc0ILfMomRlYUIHt2oO1tNxJG_jVPLFFP7p4/edit#slide=id.g1caa793d797_0_140)
